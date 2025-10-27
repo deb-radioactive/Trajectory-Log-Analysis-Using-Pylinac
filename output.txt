@@ -1,7 +1,7 @@
 === Header Information ===
 Log Version: 5.0
 Header Size: 1024
-Sampling Interval(msec): 20
+Sampling Interval(msec): 20   
 Number of axes: 16
 Number of MLC Leaves: 120
 Number of Subbeams: 2
@@ -63,3 +63,4 @@ Dose Rate Mean Error (MU/min): 47.82
 === Gamma Analysis ===
 Gamma Pass Rate (%): 100.00
 Average Gamma: 0.0015
+
