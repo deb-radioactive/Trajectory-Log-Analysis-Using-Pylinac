@@ -1,0 +1,65 @@
+=== Header Information ===
+Log Version: 5.0
+Header Size: 1024
+Sampling Interval(msec): 20
+Number of axes: 16
+Number of MLC Leaves: 120
+Number of Subbeams: 2
+Number of Snapshots: 5637
+
+=== Beam Holdoff Analysis ===
+Number of Beam Holds: 0
+
+=== Beam On/Off Analysis ===
+Number of Beam On Events: 0
+Number of Beam Off Events: 0
+
+=== Analyze MLC data ===
+no of leaves moved during treatment: 120
+Average RMS Error (cm): 0.0012
+Maximum RMS Error (cm): 0.0029
+Average Percentage Error (%): 0.2853
+Average Absolute Error (cm): 0.0008
+Maximum Absolute Error (cm): 0.0022
+Leaf with Maximum absolute Error: 97
+
+=== Carriage A and B Position Analysis ===
+CARRIAGE_A Percentage Error (%): 0.0058
+CARRIAGE_A Absolute Error (cm): 0.0004
+CARRIAGE_B Percentage Error (%): 0.0067
+CARRIAGE_B Absolute Error (cm): 0.0004
+Average Carriage Percentage Error (%): 0.0063
+Average Carriage Absolute Error (cm): 0.0004
+
+=== Jaw Position Analysis ===
+X1 Jaw Percentage Error (%): 0.0032
+X1 Jaw Absolute Error (cm): 0.0000
+X2 Jaw Percentage Error (%): 0.0032
+X2 Jaw Absolute Error (cm): 0.0001
+Y1 Jaw Percentage Error (%): 0.0030
+Y1 Jaw Absolute Error (cm): 0.0001
+Y2 Jaw Percentage Error (%): 0.0036
+Y2 Jaw Absolute Error (cm): 0.0001
+Average Jaw Percentage Error (%): 0.0032
+Average Jaw Absolute Error (cm): 0.0001
+
+=== Gantry Angle Analysis ===
+Gantry Angle Mean Error (deg): 0.033
+Gantry Angle Percentage Error (%): 0.0866
+
+=== Collimator Angle Analysis ===
+Collimator Angle Mean Error (deg): 0.009
+Collimator Angle Percentage Error (%): 0.0052
+
+=== Monitor Unit (MU) Analysis ===
+Total MU Delivered: 1961.6930
+Total MU Expected: 1961.6899
+MU Mean Absolute Error (MU): 0.0236
+MU Percentage Error (%): 0.0374
+
+=== Dose Rate Analysis ===
+Dose Rate Mean Error (MU/min): 47.82
+
+=== Gamma Analysis ===
+Gamma Pass Rate (%): 100.00
+Average Gamma: 0.0015
