@@ -1,4 +1,4 @@
-# Trajectory-Log-Analysis-Using-Pylinac
+# Trajectory Log Analysis Using Pylinac
 Pylinac-based independent QA with Varian's Trajectory Logs
 
 This study investigates the utility of LINAC Trajectory_Log files as a robust QA tool in modern radiation therapy. A LINAC log file is a digital record documenting the operational parameters of a linear accelerator during radiotherapy, capturing real-time machine performance and component positioning. For the Varian Edge system, Trajectory Log Files, stored in the TDS folder, record snapshot data every 20ms, retained for 30 days. These files contain precise, timestamped metadata (e.g., Patient ID, Plan Label, snapshot count), beam fluence, and axis data (e.g., gantry, collimator angles, jaw carriage, MLC leaf positions, MUs) both expected and delivered, enabling verification of treatment accuracy, deviation detection thus enhancing patient safety.
